@@ -1,3 +1,15 @@
+/*
+ * This program is part of my learning Java series
+ * This one looks at if statements and switches
+ * 
+ * Find the blog here,
+ * http://testsheepnz.blogspot.co.nz/2016/08/java-7-conditional-world-of-ifs.html
+ * 
+ * For more information - please reread.
+ * 
+ * Mike Talks, Aug 2016
+ */
+
 public class holaMundo {
  
        public static void helloWorld (int langID)
