@@ -10,7 +10,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class holaMundo {
+public class HolaMundo {
  
        public static void helloWorld (int langID)
        {
